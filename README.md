@@ -1,3 +1,5 @@
+[![Build Status](https://testandevaluation.visualstudio.com/RF200/_apis/build/status/RF200-CI)](https://testandevaluation.visualstudio.com/RF200/_build/latest?definitionId=5)
+
 # Sample Python app for Azure Pipelines docs
 
 For information on how to use this repository, see [Python](https://docs.microsoft.com/azure/devops/pipelines/languages/python).
